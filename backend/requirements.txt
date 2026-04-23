@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+Pillow
+requests
+
+# ML deps (reused from your existing project)
+torch
+torchvision
+torchaudio
+timm
+open-clip-torch
+ftfy
+regex
+numpy

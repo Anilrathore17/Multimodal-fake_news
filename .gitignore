@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+frontend/node_modules/
+
+.cursor/
+.DS_Store
+Thumbs.db
+*.lnk
